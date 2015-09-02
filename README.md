@@ -7,4 +7,4 @@ the image of Wuhan University Internet Mining Laboratory HomePage
 downlad and run the container based on the image        
 下载并运行基于镜像的容器        
         
-``` docker run -d -P companyservice/homepage ```        
+``` docker run -d -P whudmlab/homepage ```        
